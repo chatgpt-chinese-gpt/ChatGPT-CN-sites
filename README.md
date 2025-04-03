@@ -19,7 +19,7 @@
 | 镜像网址 | 支持模型 | 免费额度 | 注册方式 | 特色功能 | 访问链接 |
 |-----------|-----------|-----------|------------|-------------|-------------|
 | SnakeGPT | GPT-4, 3.5, GPT-4o | 有 | 国内邮箱 | 支持 MJ 绘图，高稳定性 | [snakegpt.work](https://snakegpt.work) |
-| GPTCat | GPT-4, GPT-o1, Claude | 有 | 国内邮箱 | 支持语音对话、官网界面还原 | [gptcat.net](https://gptcat.net) |
+| GPTCat | GPT-4, GPT-o1, Claude | 有 | 国内邮箱 | 支持语音对话、官网界面还原 | [gptcat.cc](https://gptcat.cc) |
 | AI Panda | GPT-4, GPT-3.5 | 有 | 国内邮箱 | 提供 API 接口 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) |
 | GPTDog | GPT-3.5 | 有 | 国内邮箱 | 简洁易用 | [gptdog.online](https://gptdog.online) |
 
